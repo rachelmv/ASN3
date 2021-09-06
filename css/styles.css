@@ -28,3 +28,12 @@ body {
     padding: 10px;
     margin: 0px;
 }
+a {
+    color: mediumblue;
+}
+a:visited {
+    color: midnightblue;
+}
+a:hover {
+    color: oldlace;
+}
