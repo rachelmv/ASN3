@@ -28,6 +28,11 @@ body {
     padding: 10px;
     margin: 0px;
 }
+img {
+    display: block;
+    margin-left: 65px;
+    width: 15%;
+}
 a {
     color: mediumblue;
 }
