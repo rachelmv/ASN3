@@ -3,12 +3,23 @@
 }
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    word-break: keep-all;
+    width: 1200px;
+    margin: auto;
 }
 .profile {
     background-color: paleturquoise;
     background-size: 100%;
     padding: 10px;
     margin: 0px;
+}
+.title {
+    font-family: cursive;
+    text-shadow: 1px 1px grey;
+    text-align: center;
+    width: 1200px;
+    margin: auto
 }
 .experience {
     background-color: lightsteelblue;
